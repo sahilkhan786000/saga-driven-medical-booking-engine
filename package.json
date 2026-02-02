@@ -1,0 +1,19 @@
+{
+  "name": "medical-booking-system",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node cli/index.ts"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.8",
+    "luxon": "^3.4.4",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.9",
+    "@types/luxon": "^3.7.1",
+    "@types/winston": "^2.4.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
